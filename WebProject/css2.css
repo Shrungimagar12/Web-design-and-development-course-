@@ -1,0 +1,169 @@
+#Div1{
+    width:auto;
+    height:100;
+    background-color:cadetblue;
+    padding-top:20px;
+    
+}
+        
+        
+.con{
+  width:1200px;
+    height:auto;
+    margin:auto;
+    position:relative;
+    background-color:chocolate;
+
+}
+.par{
+    padding-left:20px;
+    padding-bottom: 25px;
+    letter-spacing:1.2px;
+    line-height:30px; 
+    
+}
+
+.cn{
+    width:160px;
+    height:40px;
+    background-color: red;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+    margin-left: 570px;
+}
+.form{
+    width:450px;
+    height:auto;
+    margin-left: 420px;
+    background-color:darkgray;
+    
+}
+.form img{
+    width:70px;
+    margin-left:190px;
+}
+.btn{
+    
+    width:240px;
+    height:40px;
+    background-color:red;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius:10px;
+}
+.form .link{
+    font-family:serif;
+    font-size: 17px;
+    text-align:center;
+}
+
+    
+.form .link a{
+    color: red;
+}
+
+.or{
+
+    margin-top: 50px;
+}
+
+
+.sign{
+    width:240px;
+    height:40px;
+    background-color: red;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius:10px;
+}
+#Div5{
+    width:auto;
+    height:100;
+    background-color:cadetblue;
+padding-top:20px;
+    position: relative;
+}
+.wrap{
+    margin:20px;
+    
+}
+.wrap img{
+    max-width: 320px;
+    float: left;
+    margin-right: 19px;
+    border-radius: 20px;
+}
+.box h2{
+    font-size:26px;
+    
+}
+.box p{
+    font-size: 22px;
+    
+    
+}
+    
+.css{
+    margin:20px;
+    margin-top: 40px;
+}
+.css img{
+    max-width: 320px;
+    float: left;
+    margin-right: 24px;
+    border-radius: 20px;
+    margin-left: 150px;
+    
+}
+.pad h2{
+    
+   font-size:26px; 
+}
+.pad p{
+   font-size: 22px; 
+}
+.js{
+    margin:20px;
+    margin-top: 60px;
+}
+.js img{
+    max-width: 320px;
+    float: left;
+    margin-right: 24px;
+    border-radius: 20px;
+    margin-left:280px;
+}
+
+.jav h2{
+    font-size:26px;
+}
+.jav p{
+    font-size: 22px;
+}
+.io{
+    margin:20px;
+    margin-top: 50px;
+
+}
+.io img{
+    max-width: 320px;
+    float: left;
+    margin-right: 24px;
+    border-radius: 20px;
+    margin-left: 2px;
+}
+.li h2{
+     font-size:26px;
+}
+.li p{
+    font-size: 22px;
+}
+
+#div9{
+    width:auto;
+    height:100;
+    background-color:cadetblue;
+    font-family:'Monotype Corsiva';
+    
+}
